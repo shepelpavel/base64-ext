@@ -1,0 +1,20 @@
+{
+	"manifest_version": 2,
+	
+	"name": "base64-ext",
+	"description": "Simple code/decode base64 text",
+	"version": "1.0",
+	
+	"icons": {
+		"128": "128.png"
+	},
+	
+	"browser_action": {
+		"default_icon": "icon.png",
+		"default_popup": "popup.html"
+	},
+	
+	"permissions": [
+		"activeTab"
+	]
+}
