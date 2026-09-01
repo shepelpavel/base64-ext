@@ -3,7 +3,7 @@
 	
 	"name": "base64-ext",
 	"description": "Simple code/decode base64 text",
-	"version": "1.1",
+	"version": "1.2",
 	
 	"icons": {
 		"128": "128.png"
@@ -12,9 +12,5 @@
 	"action": {
 		"default_icon": "icon.png",
 		"default_popup": "popup.html"
-	},
-	
-	"permissions": [
-		"activeTab"
-	]
+	}
 }
